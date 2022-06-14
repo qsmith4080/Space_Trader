@@ -3,6 +3,7 @@ Space trade is trading game made in jave that allows you to travel through space
 
 ## Technologies Used
 Java
+
 IntelliJ
 
 ## HOW TO PLAY
